@@ -1,0 +1,36 @@
+.signup-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 20px;
+    align-items: center;
+  
+}
+.signup-name{
+    border-top: #CBE4E8;
+    border-right: #CBE4E8;
+    border-left: #CBE4E8;
+    border-bottom: 0.5px solid #000;
+    outline: none;
+    max-width: fit-content;
+
+}
+.createac-btn{
+    height: 56px;
+    width: 101px;
+    display: flex;
+    padding: 16px 122px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 4px;
+    background: #db4444;
+    border: #CBE4E8;
+    cursor: pointer;
+}
+.write-style{
+   
+    align-items: center;
+    justify-content: center;
+}

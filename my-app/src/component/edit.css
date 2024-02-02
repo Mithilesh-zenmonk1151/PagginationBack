@@ -1,0 +1,12 @@
+.edit-user{
+    display: flex;
+   
+    justify-content: center;
+}
+.edit-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 20px;
+}
